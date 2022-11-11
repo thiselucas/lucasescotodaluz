@@ -4,7 +4,6 @@
 - 🔭 Estou em busca da minha primeira oportunidade na programação.
 - 🌱 Sou estudante de Sistemas para Internet (Tecnólogo), Data Science (Pós-Graduação) e Bacharel em Administração.
 - 🌱 Atualmente, estudo C#, .Net6 e Angular
-- 👯 I’m looking to collaborate on ...
 - 📫 Contate-me através do e-mail: lucas.escoto@acad.pucrs.br 
 
 ## 
