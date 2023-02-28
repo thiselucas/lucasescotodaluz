@@ -3,7 +3,7 @@
 
 - 🔭 Estou em busca da minha primeira oportunidade na programação.
 - 🌱 Sou estudante de Sistemas para Internet (Tecnólogo), Data Science (Pós-Graduação) e Bacharel em Administração.
-- 🌱 Para otimizar o aprendizado, costumo mesclar a rotina de estudos, ajudando consequentemente no entendimento das similaridades e não deixando o aprendizado defasado.
+- 🌱 Para otimizar o aprendizado, costumo mesclar a rotina de estudos, ajudando consequentemente no entendimento das ferramentas e suas diferenças e similaridades, não deixando o aprendizado defasado.
 - 📫 Contate-me através do e-mail: lucas.escoto@acad.pucrs.br 
 
 ## 
